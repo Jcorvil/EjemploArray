@@ -1,4 +1,6 @@
-public class Main {
+package EjemploArray;
+
+public class EjemploArray {
     public static void main(String[] args) {
         /*int [] a = {1,2,3,4,5};
         System.out.println(a);
@@ -27,6 +29,7 @@ public class Main {
 
         System.out.println(b.length); //Imprime "el ancho" del array
         System.out.println(b[0].length);
+
 
 
     }
